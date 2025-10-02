@@ -1,5 +1,7 @@
 {
   "name": "worst-ui-site",
+    "homepage": "https://05solar.github.io/worst-ui",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
